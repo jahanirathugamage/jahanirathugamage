@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jahani!</h1>
-<h3 align="center">A passionate software engineering student from Sri Lanka ^</h3>
+<h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-- 💫 I’m currently working on **FixIt**
+- 💫 I’m currently working on **Fluffy** a e-commerce platform for pet supplies
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **PHP & Flutter**
 
 - 💬 Ask me about **JavaScript!**
 
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/jahanir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanir" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+# ⭐ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jahanirathugamage&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jahanirathugamage&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanirathugamage&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -24,7 +24,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jahanirathugamage&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### ✨ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahanirathugamage&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
