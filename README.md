@@ -9,7 +9,7 @@
 
 - 📨 How to reach me **jahanigaveshii@gmail.com**
 
-- ☁️ Fun fact **I am an avid fan of anything cute ^**
+- ☁️ Fun fact **I love making solutions that make a difference but is also visually pleasing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
