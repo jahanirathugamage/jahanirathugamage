@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jahani!</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-- 💫 I’m currently working on **Fluffy** a e-commerce platform for pet supplies
+- 💫 I’m currently working on **Fluffy** : an e-commerce platform for pet supplies
 
 - 🌱 I’m currently learning **PHP & Flutter**
 
